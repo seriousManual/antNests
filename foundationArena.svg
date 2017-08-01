@@ -191,16 +191,12 @@
        id="g4775-9"
        style="fill:none;stroke:#e00000;stroke-width:3.40670204;stroke-miterlimit:6.76923084;stroke-dasharray:none;stroke-opacity:1" />
   </g>
-  <circle
+  <path
      style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#030000;stroke-width:0.16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.76923084;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path5830"
-     cx="107.46237"
-     cy="9926.0127"
-     r="4.9200001" />
-  <circle
+     d="m 112.38237,9926.0127 a 4.9200001,4.9200001 0 0 1 -4.92,4.92 4.9200001,4.9200001 0 0 1 -4.92,-4.92 4.9200001,4.9200001 0 0 1 4.92,-4.92 4.9200001,4.9200001 0 0 1 4.92,4.92 z"
+     id="path5830" />
+  <path
      style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#030000;stroke-width:0.16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.76923084;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="path5830-1"
-     cx="107.20339"
-     cy="9977.8594"
-     r="4.9200001" />
+     d="m 112.12339,9977.8594 a 4.9200001,4.9200001 0 0 1 -4.92,4.92 4.9200001,4.9200001 0 0 1 -4.92,-4.92 4.9200001,4.9200001 0 0 1 4.92,-4.92 4.9200001,4.9200001 0 0 1 4.92,4.92 z"
+     id="path5830-1" />
 </svg>
