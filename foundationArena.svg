@@ -117,8 +117,8 @@
      id="rect5757"
      width="42.879112"
      height="41.243397"
-     x="86.359016"
-     y="9828.2783"
+     x="86.048706"
+     y="9828.4922"
      ry="5.9322033" />
   <rect
      style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#030000;stroke-width:0.16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.76923084;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -130,7 +130,7 @@
      ry="0" />
   <g
      id="g4802-1"
-     transform="matrix(0.05867053,0,0,0.0587451,158.71874,9829.1763)"
+     transform="matrix(0.05867053,0,0,0.0587451,156.68745,9828.2263)"
      style="fill:none;stroke:#e00000;stroke-width:3.40670204;stroke-miterlimit:6.76923084;stroke-dasharray:none;stroke-opacity:1">
     <g
        id="g4745-2"
@@ -193,10 +193,12 @@
   </g>
   <path
      style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#030000;stroke-width:0.16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.76923084;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 112.38237,9926.0127 a 4.9200001,4.9200001 0 0 1 -4.92,4.92 4.9200001,4.9200001 0 0 1 -4.92,-4.92 4.9200001,4.9200001 0 0 1 4.92,-4.92 4.9200001,4.9200001 0 0 1 4.92,4.92 z"
-     id="path5830" />
+     d="m 112.40827,9926.0127 a 4.9200001,4.9200001 0 0 1 -4.92,4.92 4.9200001,4.9200001 0 0 1 -4.92,-4.92 4.9200001,4.9200001 0 0 1 4.92,-4.92 4.9200001,4.9200001 0 0 1 4.92,4.92 z"
+     id="path5830"
+     inkscape:connector-curvature="0" />
   <path
      style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#030000;stroke-width:0.16;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.76923084;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 112.12339,9977.8594 a 4.9200001,4.9200001 0 0 1 -4.92,4.92 4.9200001,4.9200001 0 0 1 -4.92,-4.92 4.9200001,4.9200001 0 0 1 4.92,-4.92 4.9200001,4.9200001 0 0 1 4.92,4.92 z"
-     id="path5830-1" />
+     d="m 112.40827,9977.8594 a 4.9200001,4.9200001 0 0 1 -4.92,4.92 4.9200001,4.9200001 0 0 1 -4.92,-4.92 4.9200001,4.9200001 0 0 1 4.92,-4.92 4.9200001,4.9200001 0 0 1 4.92,4.92 z"
+     id="path5830-1"
+     inkscape:connector-curvature="0" />
 </svg>
