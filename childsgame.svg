@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70739294"
-     inkscape:cx="503.3848"
-     inkscape:cy="719.93888"
+     inkscape:zoom="0.41032224"
+     inkscape:cx="1099.4831"
+     inkscape:cy="681.80221"
      inkscape:document-units="mm"
-     inkscape:current-layer="g873"
+     inkscape:current-layer="svg8"
      showgrid="false"
      fit-margin-top="2"
      fit-margin-left="2"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,11 +93,11 @@
        style="fill:none;stroke:#000000;stroke-width:0.13700432;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:type="star" />
     <circle
-       r="24.92"
        cy="-2.6423182"
        cx="120.37218"
        id="path836"
-       style="fill:none;stroke:#000000;stroke-width:0.16;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:0.16;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="24.92" />
     <rect
        ry="2.9399648"
        rx="2.9399648"
@@ -142,4 +142,30 @@
      width="100%"
      height="100%"
      transform="translate(153.01501)" />
+  <g
+     id="g2510"
+     transform="translate(0,17.77569)">
+    <text
+       id="text2500"
+       y="218.08969"
+       x="16.559296"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.30050278px;line-height:125%;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.38693471;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;fill:#000000;fill-opacity:0.38693471;stroke-width:0.26458332px"
+         y="218.08969"
+         x="16.559296"
+         id="tspan2498"
+         sodipodi:role="line">NOAH</tspan></text>
+    <text
+       id="text2504"
+       y="234.32295"
+       x="18.257044"
+       style="font-style:normal;font-weight:normal;font-size:16.41133308px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.38693471;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vollkorn;-inkscape-font-specification:Vollkorn;fill:#000000;fill-opacity:0.38693471;stroke-width:0.26458335px"
+         y="234.32295"
+         x="18.257044"
+         id="tspan2502"
+         sodipodi:role="line">established 2017</tspan></text>
+  </g>
 </svg>
